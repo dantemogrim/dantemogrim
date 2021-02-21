@@ -2,6 +2,15 @@
 
 <img src="https://media.giphy.com/media/10bxTLrpJNS0PC/giphy.gif">
 
+- 🤠 My name is Dante Mogrim.
+- 🏠 I live in Gothenburg, Sweden.
+- 🌱 I'm currently studying Web Development at Yrgo.
+- 📚 Courses so far have included: C#, CSS, HTML, JS, PHP and SQL + frameworks.
+- ⚡️ Fun fact: I might have taught my cats how to give high fives.
+- 📫 How to reach me: 1991.mogrim@gmail.com
+
+Have a nice day!
+
 <!--
 **mogrim-91/mogrim-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
