@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, how are you? 👋
+
+<img src="https://media.giphy.com/media/10bxTLrpJNS0PC/giphy.gif">
 
 <!--
 **mogrim-91/mogrim-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
