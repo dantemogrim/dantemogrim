@@ -1,8 +1,8 @@
-### Hi, how are you? 👋
+### Hi 👋
 
 <img src="https://media.giphy.com/media/10bxTLrpJNS0PC/giphy.gif">
 
-- 📫 How to reach me: 1991.mogrim@gmail.com
+📫 How to reach me: 1991.mogrim@gmail.com
 
 Have a nice day!
 
