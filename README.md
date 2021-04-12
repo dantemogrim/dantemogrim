@@ -1,6 +1,6 @@
 ### Hello 👋
 
-<img src="https://media.giphy.com/media/4JBGWia0Rs3lUZNx5F/giphy.gif">
+<img src="https://media.giphy.com/media/brRWBSKoc9ueI/giphy.gif">
 
 📫 4 contact: 1991.mogrim@gmail.com
 
