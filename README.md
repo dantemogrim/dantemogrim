@@ -4,6 +4,8 @@
 
 📫 4 contact: 1991.mogrim@gmail.com
 
+[![Mail.Ru Badge](https://img.shields.io/badge/-1991.mogrim@gmail.com-black?style=flat&logo=Mail.Ru&logoColor=white&link=mailto:1991.mogrim@gmail.com)](mailto:1991.mogrim@gmail.com) 
+
 Have a nice day!
 
 <!--
