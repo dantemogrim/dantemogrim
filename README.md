@@ -4,7 +4,7 @@
 
 [![1991.mogrim@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1991.mogrim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/dantemogrim)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/dantemogrim)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dantemogrim)
 
 
 Have a nice day!
